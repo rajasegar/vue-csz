@@ -1,4 +1,6 @@
-# New Project
+# vue-csz
+
+Snowpack Vue.js app with csz for styling.
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
